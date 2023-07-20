@@ -33,16 +33,16 @@ Failure to adhere to these guidelines may result in your contributions being dec
 
 ## 📚 Resources
 
-- [Git and GitHub basics](YOUR_LINK_TO_TUTORIAL_IF_ANY)
-- [How to set up the project](YOUR_LINK_TO_SETUP_GUIDE)
-- [Code style guide](YOUR_LINK_TO_STYLE_GUIDE)
+- [Git and GitHub basics](https://www.freecodecamp.org/news/introduction-to-git-and-github/)
+- [How to set up the project](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project)
+- [Code style guide](https://www.swift.org/documentation/)
 
 ## 📞 Contact & Support
 
 Feel free to reach out if you have any questions or need further clarifications.
 
-- **Email**: [your_email@example.com](mailto:your_email@example.com)
-- **Twitter**: [@YourHandle](https://twitter.com/YourHandle)
+- **Email**: [projectwnoname@gmail.com](mailto:projectwnoname@gmail.com)
+- **Twitter**: [](https://twitter.com/YourHandle)
 
 ## 🌟 Special Thanks
 
