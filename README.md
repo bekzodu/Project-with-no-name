@@ -5,11 +5,11 @@ Welcome to the Open Source App Project! We're thrilled to have you here. This pr
 For a detailed walkthrough of the project and its features, check out our YouTube channel. We regularly release documentation and tutorials to guide you through the setup, contribution process, and more.
 
 #🤝 How to Contribute
-Fork the repository to your own GitHub account.
-Clone the repository to your local machine.
-Make your changes and then push to your fork.
-Create a pull request so that we can review your changes.
-Note: Please ensure that you pull the latest changes before making any new contributions to avoid any merge conflicts.
+1. Fork the repository to your own GitHub account.
+2. Clone the repository to your local machine.
+3. Make your changes and then push to your fork.
+4. Create a pull request so that we can review your changes.
+###Note: Please ensure that you pull the latest changes before making any new contributions to avoid any merge conflicts.
 
 #📜 Contribution Guidelines
 To maintain a high quality of code and a positive environment, we request contributors to follow these guidelines:
