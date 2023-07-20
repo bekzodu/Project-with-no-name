@@ -4,7 +4,7 @@ Welcome to the Open Source App Project! We're thrilled to have you here. This pr
 
 ## 🎥 Documentation and Tutorials
 
-For a detailed walkthrough of the project and its features, check out our [YouTube channel]([YOUR_YOUTUBE_LINK_HERE](https://www.youtube.com/channel/UCJOg1YChJeVoK3k84UHq6rg)). We regularly release documentation and tutorials to guide you through the setup, contribution process, and more.
+For a detailed walkthrough of the project and its features, check out our [YouTube channel](https://www.youtube.com/channel/UCJOg1YChJeVoK3k84UHq6rg). We regularly release documentation and tutorials to guide you through the setup, contribution process, and more.
 
 ## 🤝 How to Contribute
 
