@@ -20,3 +20,9 @@
 - Started a keynote presentation
 - Made a couple of slides for the presentation and did research on presenting
 - Reviewed Emre's business plan report
+
+# Day 3 Progress Report
+## (Emre):
+- Incorporated Dana into the team
+- finished the business model's current stage, will need to be updated later as project progresses
+- Began working on the presentation slides, expected to be completed 7/24
