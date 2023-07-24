@@ -43,7 +43,7 @@ Failure to adhere to these guidelines may result in your contributions being dec
 Feel free to reach out if you have any questions or need further clarifications.
 
 - **Email**: [projectwnoname@gmail.com](mailto:projectwnoname@gmail.com)
-- **Twitter**: [](https://twitter.com/YourHandle)
+- **Twitter**: [twitter.com/projectwnoname](https://twitter.com/projectwnoname)
 
 ## 🌟 Special Thanks
 
