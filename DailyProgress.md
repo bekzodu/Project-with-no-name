@@ -26,3 +26,8 @@
 - Incorporated Dana into the team
 - finished the business model's current stage, will need to be updated later as project progresses
 - Began working on the presentation slides, expected to be completed 7/24
+
+## (Bekzod):
+- Started project planning for the website
+- Designed the front end draft
+- Started working on the website, expected to be completed on 08/01
