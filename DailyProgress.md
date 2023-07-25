@@ -31,3 +31,12 @@
 - Started project planning for the website
 - Designed the front end draft
 - Started working on the website, expected to be completed on 08/01
+
+# Day 4 Progress Report
+## (Emre):
+
+
+## (Bekzod):
+- Worked on designing the front end on figma
+- Finilazed logo concept and color palets
+- Did research on adding possible interactivity for the website
