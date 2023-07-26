@@ -1,4 +1,4 @@
-#Day 5 Progress Report
+# Day 5 Progress Report
 ## (Emre):
 - Transferred slides presentation to Bekzod, to finish data and important points
 - Assigned responsibility for logo generation, and finishing figma footer + Thank you
