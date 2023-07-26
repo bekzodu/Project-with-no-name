@@ -1,3 +1,12 @@
+#Day 5 Progress Report
+## (Emre):
+- Transferred slides presentation to Bekzod, to finish data and important points
+- Assigned responsibility for logo generation, and finishing figma footer + Thank you
+- Planning to begin prototyping UI/UX at the end of the week
+
+## (Bekzod):
+
+
 # Day 4 Progress Report
 ## (Emre):
 - Continued working on presentation
