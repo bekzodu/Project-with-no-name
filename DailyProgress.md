@@ -8,7 +8,7 @@
 - Worked on designing the front end on figma
 - Finilazed logo concept and color palets
 - Did research on adding possible interactivity for the website
-- 
+
 # Day 3 Progress Report
 ## (Emre):
 - Incorporated Dana into the team
