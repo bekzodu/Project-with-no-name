@@ -5,6 +5,9 @@
 - Planning to begin prototyping UI/UX at the end of the week
 
 ## (Bekzod):
+- Made adjustments on the website design
+- Did market research on social media platforms
+- Brainstormed more ideas and thoughts
 
 
 # Day 4 Progress Report
