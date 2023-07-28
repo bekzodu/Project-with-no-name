@@ -4,6 +4,7 @@
 
 ## (Bekzod):
 - Adjusted Emre's changes to the design
+- 
 
 # Day 5 Progress Report
 ## (Emre):
