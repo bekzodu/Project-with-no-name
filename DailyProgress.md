@@ -1,6 +1,7 @@
 # Day 6 Progress Report
 ## (Emre):
-
+- Began design of the career  page (expected completion 7/30)
+- Put the slides presentation on backlog for a temporary period until we develop the project further
 
 ## (Bekzod):
 - Adjusted Emre's changes to the design
