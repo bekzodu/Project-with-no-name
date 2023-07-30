@@ -1,3 +1,12 @@
+# Day 7 Progress Report
+## (Emre):
+- Finished the design of the careers page
+- Finished the design of the contact us page
+- Made the website aesthetically better
+- Website is done for now, we will move on to the actual code in HTML, CSS, and JS
+
+## (Bekzod):
+
 # Day 6 Progress Report
 ## (Emre):
 - Began design of the career  page (expected completion 7/30)
