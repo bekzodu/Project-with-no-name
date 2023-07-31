@@ -36,7 +36,6 @@ Failure to adhere to these guidelines may result in your contributions being dec
 - [Git and GitHub basics](https://www.freecodecamp.org/news/introduction-to-git-and-github/)
 - [How to set up the project](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project)
 - [Code style guide](https://www.swift.org/documentation/)
-- [What is an Open Source Project?](https://www.swift.org/documentation/](https://opensource.com/resources/what-open-source)
 - [What is an Open Source Project?] (https://opensource.com/resources/what-open-source)
 
 
