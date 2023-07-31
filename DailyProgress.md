@@ -1,3 +1,9 @@
+# Day 8 Progress Report
+## (Emre):
+
+## (Bekzod):
+
+
 # Day 7 Progress Report
 ## (Emre):
 - Finished the design of the careers page
