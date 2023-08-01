@@ -1,5 +1,8 @@
 # Day 8 Progress Report
 ## (Emre):
+- Began the design of the website based on Figma prototype in HTML & CSS
+- Learned version control practices from Bekzod
+- Began working on the Contact Us page with navbar template from Bekzod
 
 ## (Bekzod):
 
