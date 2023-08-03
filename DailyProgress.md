@@ -5,6 +5,8 @@
 - Began working on the Contact Us page with navbar template from Bekzod
 
 ## (Bekzod):
+- Began working on the home page of the website
+- Designed and coded the navbar and intro page, which includes: navbar, image, intro text
 
 
 # Day 7 Progress Report
@@ -15,6 +17,8 @@
 - Website is done for now, we will move on to the actual code in HTML, CSS, and JS
 
 ## (Bekzod):
+- Started github repo for the website and shared it with Emre
+- Started brainstorming how to implement Figma design to HTML/CSS/Js
 
 # Day 6 Progress Report
 ## (Emre):
