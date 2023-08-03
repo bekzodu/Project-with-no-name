@@ -1,6 +1,6 @@
 # Update 1.10 Summary: Project designing
 
-###🌟 Created PowerPoint Presentation (80% Done) 🌟
+### 🌟 Created PowerPoint Presentation (80% Done) 🌟
 We're channeling our creativity into crafting an awe-inspiring PowerPoint presentation. Its completion is imminent, with 80% already done. Brace yourself for a visual treat!
 
 ### 💻 Figma Design for Official Website Completed 💻
