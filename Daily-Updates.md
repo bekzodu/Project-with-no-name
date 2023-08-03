@@ -14,6 +14,9 @@ From the realm of imagination to the realm of reality, the design is transitioni
 
 **Join us on this epic journey as we shape dreams into reality. Together, we'll redefine possibilities! 🌌**
 
+
+
+
 # Update 1.0 Summary: Project Kick-off
 
 ### 🚀 **Setting up the Repository**
