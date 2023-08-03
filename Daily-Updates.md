@@ -1,4 +1,4 @@
-## Day 1 Summary: Project Kick-off
+Update 1.0 Summary: Project Kick-off
 
 ### 🚀 **Setting up the Repository**
 - Initialized the GitHub repository.
