@@ -1,17 +1,15 @@
-# ✨ Update 1.10 ✨
+# Update 1.10 Summary: Project designing
 
-## Summary:
-
-##🌟 Created PowerPoint Presentation (80% Done) 🌟
+###🌟 Created PowerPoint Presentation (80% Done) 🌟
 We're channeling our creativity into crafting an awe-inspiring PowerPoint presentation. Its completion is imminent, with 80% already done. Brace yourself for a visual treat!
 
-## 💻 Figma Design for Official Website Completed 💻
+### 💻 Figma Design for Official Website Completed 💻
 A masterpiece has emerged from the depths of Figma, embodying the very essence of our brand. The official website design stands tall and proud, a testament to our passion for aesthetic brilliance.
 
-## 🚀 All Social Media Platforms Are Up and Running 🚀
+### 🚀 All Social Media Platforms Are Up and Running 🚀
 Our digital presence is soaring! We've unleashed our brand across all social media platforms, igniting a virtual firestorm of connections and engagement.
 
-## 🎨 Design Now Transcending into Coding/Development Stage 🎨
+### 🎨 Design Now Transcending into Coding/Development Stage 🎨
 From the realm of imagination to the realm of reality, the design is transitioning into the mystical realm of coding and development. Our team of tech startup developers is ready to weave magic into every pixel.
 
 **Join us on this epic journey as we shape dreams into reality. Together, we'll redefine possibilities! 🌌**
