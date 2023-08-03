@@ -23,7 +23,7 @@
 
 ## (Bekzod):
 - Adjusted Emre's changes to the design
-- 
+- Added couple more options in Jira
 
 # Day 5 Progress Report
 ## (Emre):
