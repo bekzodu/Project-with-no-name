@@ -1,3 +1,13 @@
+# Day 9 Progress Report
+## (Emre):
+- Started work on the Contact Us page
+- Utilized input HTML elements, need to extend the text box to cover the entire row.
+- JavaScript is needed for making the input text interactive and configure the placeholders appropriately.
+- Need to consult with Bekzod to see if we are going for a wrapper style or dynamic website.
+
+## (Bekzod):
+- 
+
 # Day 8 Progress Report
 ## (Emre):
 - Began the design of the website based on Figma prototype in HTML & CSS
