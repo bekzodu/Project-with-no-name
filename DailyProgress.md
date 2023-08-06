@@ -1,3 +1,11 @@
+# Day 10 Progress Report
+## (Emre):
+- Consulted with Bekzod and agreed to implement a wrapper style.
+- Improved the text box
+
+## (Bekzod):
+
+
 # Day 9 Progress Report
 ## (Emre):
 - Started work on the Contact Us page
