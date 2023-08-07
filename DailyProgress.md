@@ -1,3 +1,9 @@
+# Day 11 Progress Report
+## (Emre):
+
+## (Bekzod):
+- Day off
+
 # Day 10 Progress Report
 ## (Emre):
 - Consulted with Bekzod and agreed to implement a wrapper style.
