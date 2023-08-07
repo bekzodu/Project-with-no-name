@@ -1,5 +1,7 @@
 # Day 11 Progress Report
 ## (Emre):
+- Began work on the footer style
+- Encountered problems with input box. User's inputted text appears in the center and does not wrap around when at the end of the row.
 
 ## (Bekzod):
 - Day off
