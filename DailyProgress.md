@@ -14,7 +14,8 @@
 - Need to consult with Bekzod to see if we are going for a wrapper style or dynamic website.
 
 ## (Bekzod):
-- 
+- Started working on the boxes
+- brainstorming ideas how to implement the code from figma to html/css/js
 
 # Day 8 Progress Report
 ## (Emre):
