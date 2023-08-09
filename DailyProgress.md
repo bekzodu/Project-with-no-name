@@ -12,7 +12,7 @@
 - Improved the text box
 
 ## (Bekzod):
-- Day off
+- Day off.
 
 
 # Day 9 Progress Report
